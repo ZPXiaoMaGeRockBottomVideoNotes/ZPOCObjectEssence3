@@ -1,0 +1,2 @@
+# ZPOCObjectEssence3
+本Demo主要通过一个自定义类内部的成员变量分析了这个自定义类实际上占用多少内存空间，还介绍了通过sizeof运算符、class_getInstanceSize函数和malloc_size函数打印的结果以及原因。
